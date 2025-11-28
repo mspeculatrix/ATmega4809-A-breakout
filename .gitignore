@@ -1,5 +1,8 @@
 KICAD
 .DS_Store
+*.map
+*.elf
+*.hex
 
 # Prerequisites
 *.d
